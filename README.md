@@ -12,7 +12,7 @@ The Delphi Encryption Compendium (DEC) is a cryptographic library for Delphi, C+
 The following changes have been made with respect to the Delphi 10.2 release:
 * Fixed AnsiChar and WideChar.
 * Syntax compatibility with Delphi 10.2.
-* Tested TCipher_Rijndael cmCTS mode
+* _*Tested TCipher_Rijndael cmCTS mode*_
 
 The following environments have been tested:
 * Delphi 7 Win32
