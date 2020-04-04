@@ -19,7 +19,8 @@ The following environments have been tested:
 * Delphi 10.2 Win32
 
 ## 🚦 Wrap Up
-The main goal of this repository was to allow backward compatibility to projects that used DEC 3.0 as their solution. Using DEC 5.0 and above is not a option, because wrong results.
+The main goal of this repository was to allow backward compatibility to projects that used DEC 3.0 as their solution. 
+Using DEC 5.0 and above will produce different results in some algorithms.
 
 ## License
 This project is licensed under a MIT/Freeware license. You are free to use the library for personal and commercial use but at your own risk. See LICENSE for details.
